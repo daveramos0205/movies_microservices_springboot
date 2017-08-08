@@ -1,5 +1,5 @@
 # movies_microservices_springboot
-This project implements various spring boot based microservices displaying movietimes, 
+This project implements various Spring Boot based microservices displaying movietimes, 
 theaters and user accounts from a MySQL database. 
 Spring Cloud is used to configure the services based on different profiles. 
 Netflix's Eureka framework provides service discovery functionality.
